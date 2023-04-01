@@ -1,0 +1,42 @@
+{
+  "id": "586AD28C-20B0-4825-990A-DEF9871A08B1",
+  "name": "White Rice",
+  "creator": "Ozoz Sokoh",
+  "imageURL": "https://unsplash.com/photos/uQs1802D0CQ",
+  "ingredients": [
+    {
+      "id": "586AD28C-20B0-4825-990A-DEF9871A18B1",
+      "amount": 1.0,
+      "unit": "cup",
+      "name": "Long Grain Rice"
+    },
+    {
+      "id": "586AD28C-20B0-4825-990A-DEF9871A28B1",
+      "amount": 2,
+      "unit": "teaspoons",
+      "name": "salt"
+    }
+  ],
+  "basics": {
+    "id": "586AD28C-20B0-4825-990A-DEF9871A29B1",
+    "prep_time": "5",
+    "cook_time": "10",
+    "total_time": "15"
+  },
+  "preparation": {
+    "id": "586AD28C-20B0-4825-990A-DEF9871A20B1",
+    "prep": [
+      "wash rice",
+      "measure out 1 cup of water",
+      "measure out 2 teaspoons of salt"
+    ],
+    "steps": [
+      "Pour I cup of water into pot",
+      "Add washed rice to pot",
+      "Add salt to taste",
+      "Turn on heater to medium.",
+      "Boil Rice on medium heat for first 7 mins",
+      "Boil Rice on low heat for last 3 mins"
+    ]
+  }
+}
