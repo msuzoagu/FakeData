@@ -1,0 +1,111 @@
+{
+  "id": "106AD28C-20B0-4825-990A-DEF9871A76A5", 
+  "recipes": [
+    {
+      "id": "586AD28C-20B0-4825-990A-DEF9871A76A5",
+      "name": "simple meat stock",
+      "creator": "Ozoz Sokoh",
+      "imageURL": "https://unsplash.com/photos/uQs1802D0CQ",
+      "ingredients": [
+        {
+          "id": "586AD28C-20B0-4825-990A-DEF9871A76A0",
+          "amount": 1.0,
+          "unit": "pound",
+          "name": "beef"
+        },
+        {
+          "id": "586AD28C-20B0-4825-990A-DEF9871A76A1",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "name": "salt"
+        },
+        {
+          "id": "586AD28C-20B0-4825-990A-DEF9871A76A2",
+          "amount": 1.0,
+          "unit": "medium",
+          "name": "onion"
+        },
+        {
+          "id": "586AD28C-20B0-4825-990A-DEF9871A76A3",
+          "amount": 1,
+          "unit": "gram",
+          "name": "ginger"
+        },
+        {
+          "id": "586AD28C-20B0-4825-990A-DEF9871A76A4",
+          "amount": 0.5,
+          "unit": "tablesppon",
+          "name": "maggi"
+        },
+        {
+          "id": "586AD28C-20B0-4825-990A-DEF9871A76A5",
+          "amount": 2.0,
+          "unit": "cups",
+          "name": "water"
+        }
+      ],
+      "basics": {
+        "id": "586AD28C-20B0-4825-990A-DEF9871A70A0",
+        "prep_time": "15",
+        "cook_time": "30",
+        "total_time": "45"
+      },
+      "preparation": {
+        "id": "586AD28C-20B0-4825-990A-DEF9871A71A0",
+        "prep": [
+          "chop onions into small or medium size pieces",
+          "grate or chop ginger into smaller pieces"
+        ],
+        "steps": [
+          "Place beef in crock pot.",
+          "pour chopped onions and ginger into crock pot.",
+          "pour salt and maggi seasoning into crock pot.",
+          "pour water into crock pot.",
+          "Cook on low for 30 mins"
+        ]
+      }
+    },
+    {
+      "id": "586AD28C-20B0-4825-990A-DEF9871A08B1",
+      "name": "White Rice",
+      "creator": "Ozoz Sokoh",
+      "imageURL": "https://unsplash.com/photos/uQs1802D0CQ",
+      "ingredients": [
+        {
+          "id": "586AD28C-20B0-4825-990A-DEF9871A18B1",
+          "amount": 1.0,
+          "unit": "cup",
+          "name": "Long Grain Rice"
+        },
+        {
+          "id": "586AD28C-20B0-4825-990A-DEF9871A28B1",
+          "amount": 2,
+          "unit": "teaspoons",
+          "name": "salt"
+        }
+      ],
+      "basics": {
+        "id": "586AD28C-20B0-4825-990A-DEF9871A29B1",
+        "prep_time": "5",
+        "cook_time": "10",
+        "total_time": "15"
+      },
+      "preparation": {
+        "id": "586AD28C-20B0-4825-990A-DEF9871A20B1",
+        "prep": [
+          "wash rice",
+          "measure out 1 cup of water",
+          "measure out 2 teaspoons of salt"
+        ],
+        "steps": [
+          "Pour I cup of water into pot",
+          "Add washed rice to pot",
+          "Add salt to taste",
+          "Turn on heater to medium.",
+          "Boil Rice on medium heat for first 7 mins",
+          "Boil Rice on low heat for last 3 mins"
+        ]
+      }
+    }
+  ]
+}
