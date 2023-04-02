@@ -1,30 +1,30 @@
 {
-  "id": "586AD28C-20B0-4825-990A-DEF9871A08B1",
+  "id": "0439D242-68A4-48BA-A8DA-1846B2C5651A",
   "name": "White Rice",
   "creator": "Ozoz Sokoh",
   "imageURL": "https://unsplash.com/photos/uQs1802D0CQ",
   "ingredients": [
     {
-      "id": "586AD28C-20B0-4825-990A-DEF9871A18B1",
+      "id": "B3782B9E-ACBD-432F-BF5E-DB2581675F09",
       "amount": 1.0,
       "unit": "cup",
       "name": "Long Grain Rice"
     },
     {
-      "id": "586AD28C-20B0-4825-990A-DEF9871A28B1",
+      "id": "4C9B281B-B492-4C02-A748-ED3A228E9793",
       "amount": 2,
       "unit": "teaspoons",
       "name": "salt"
     }
   ],
   "basics": {
-    "id": "586AD28C-20B0-4825-990A-DEF9871A29B1",
+    "id": "3EDC6453-50CF-4B2E-B1F0-C9A6811279C7",
     "prep_time": "5",
     "cook_time": "10",
     "total_time": "15"
   },
   "preparation": {
-    "id": "586AD28C-20B0-4825-990A-DEF9871A20B1",
+    "id": "9CCABDAB-40C8-4AE6-9B2E-AC13B9FB2301",
     "prep": [
       "wash rice",
       "measure out 1 cup of water",
